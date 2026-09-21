@@ -25,8 +25,8 @@ Un utilitaire graphique léger, autonome en Python/Tkinter pour automatiser l'in
 
 1. **Cloner ou télécharger le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/winget-tkinter-installer.git
-   cd winget-tkinter-installer
+   git clone https://github.com/T209995/install-winget.git
+   cd install-winget
    ```
 
 2. **Lancer l'application :**
