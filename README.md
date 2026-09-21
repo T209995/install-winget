@@ -3,6 +3,9 @@ Un utilitaire graphique léger, autonome en Python/Tkinter pour automatiser l'in
 
 ---
 
+<img width="522" height="532" alt="1" src="https://github.com/user-attachments/assets/b449569d-9b3f-4023-98ae-a26027b42ff4" />
+
+
 ## Fonctionnalités
 
 * **Zero dépendance tierce :** Utilise exclusivement la bibliothèque standard de Python (`tkinter`, `threading`, `subprocess`). Aucun `pip install` nécessaire.
